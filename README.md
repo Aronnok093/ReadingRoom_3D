@@ -1,9 +1,8 @@
 # Three.js Reading Room 3D
 
-Welcome to the Three.js Reading Room 3D project! This project aims to create an engaging and interactive 3D scene using Three.js and Node.js. T
-he focal point of the scene is a reading room setup, featuring a table and chair, each designed with specific functionalities.
+Welcome to the Three.js Reading Room 3D project! This project aims to create an engaging and interactive 3D scene using Three.js and Node.js. The focal point of the scene is a reading room setup, featuring a table and chair, each designed with specific functionalities.
 
-## Key Requirements
+## Key Features
 
 1. **Table:** A 3D table will be present in the room.
 
@@ -29,4 +28,9 @@ he focal point of the scene is a reading room setup, featuring a table and chair
 
 1. **Clone the repository:**
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/Aronnok093/threeJs_ReadingRoom_3D.git
+cd threeJs_ReadingRoom_3D
+npm install
+npm start
+
+Replace the placeholder URLs and paths with your actual GitHub repository URL and project details. Customize the content further based on your specific project information.
