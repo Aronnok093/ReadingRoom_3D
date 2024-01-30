@@ -29,8 +29,3 @@ Welcome to the Three.js Reading Room 3D project! This project aims to create an 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Aronnok093/threeJs_ReadingRoom_3D.git
-cd threeJs_ReadingRoom_3D
-npm install
-npm start
-
-Replace the placeholder URLs and paths with your actual GitHub repository URL and project details. Customize the content further based on your specific project information.
